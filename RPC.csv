@@ -1,172 +1,172 @@
-"Nome" "Pública ou Privada" "Estado" "RPC" "Ranking"
-"1" "Universidade Federal do Rio de Janeiro" "Federal" "RJ" 1 3
-"2" "Universidade de SÃ£o Paulo" "Estadual" "SP" 2 1
-"3" "Universidade Estadual de Campinas" "Estadual" "SP" 3 2
+"Nome" "Pública ou Privada" "Estado" "Ranking" "RUF"
+"1" "Universidade Federal do Rio de Janeiro" "Federal" "RJ" 3 3
+"2" "Universidade de SÃ£o Paulo" "Estadual" "SP" 1 1
+"3" "Universidade Estadual de Campinas" "Estadual" "SP" 2 2
 "4" "Universidade Federal de Minas Gerais" "Federal" "MG" 4 4
 "5" "Universidade Federal do Rio Grande do Sul" "Federal" "RS" 5 5
-"6" "Universidade Federal de Santa Catarina" "Federal" "SC" 6 7
-"7" "Universidade Federal do ParanÃ¡" "Federal" "PR" 7 8
-"8" "Universidade Estadual Paulista JÃºlio de Mesquita Filho" "Estadual" "SP" 8 6
+"6" "Universidade Federal de Santa Catarina" "Federal" "SC" 7 7
+"7" "Universidade Federal do ParanÃ¡" "Federal" "PR" 8 8
+"8" "Universidade Estadual Paulista JÃºlio de Mesquita Filho" "Estadual" "SP" 6 6
 "9" "Universidade de BrasÃ­lia" "Federal" "DF" 9 9
 "10" "Universidade Federal de Pernambuco" "Federal" "PE" 10 10
 "11" "Universidade Federal do CearÃ¡" "Federal" "CE" 11 11
-"12" "PontifÃ­cia Universidade CatÃ³lica do Rio de Janeiro" "Privada" "RJ" 12 19
-"13" "Universidade Federal da Bahia" "Federal" "BA" 13 14
-"14" "PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul" "Privada" "RS" 14 18
-"15" "Universidade Federal de SÃ£o Carlos" "Federal" "SP" 15 12
-"16" "Universidade do Estado do Rio de Janeiro" "Estadual" "RJ" 16 13
-"17" "Universidade Federal de ViÃ§osa" "Federal" "MG" 17 15
-"18" "Universidade Federal Fluminense" "Federal" "RJ" 18 17
-"19" "Universidade Federal de SÃ£o Paulo" "Federal" "SP" 19 16
-"20" "PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡" "Privada" "PR" 20 30
-"21" "Universidade Federal do EspÃ­rito Santo" "Federal" "ES" 21 27
-"22" "Universidade Federal de GoiÃ¡s" "Federal" "GO" 22 20
-"23" "Universidade Federal do ParÃ¡" "Federal" "PA" 23 29
-"24" "Universidade Federal do Rio Grande do Norte" "Federal" "RN" 24 22
-"25" "Universidade Federal de Santa Maria" "Federal" "RS" 25 21
+"12" "PontifÃ­cia Universidade CatÃ³lica do Rio de Janeiro" "Privada" "RJ" 19 19
+"13" "Universidade Federal da Bahia" "Federal" "BA" 14 14
+"14" "PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul" "Privada" "RS" 18 18
+"15" "Universidade Federal de SÃ£o Carlos" "Federal" "SP" 12 12
+"16" "Universidade do Estado do Rio de Janeiro" "Estadual" "RJ" 13 13
+"17" "Universidade Federal de ViÃ§osa" "Federal" "MG" 15 15
+"18" "Universidade Federal Fluminense" "Federal" "RJ" 17 17
+"19" "Universidade Federal de SÃ£o Paulo" "Federal" "SP" 16 16
+"20" "PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡" "Privada" "PR" 30 30
+"21" "Universidade Federal do EspÃ­rito Santo" "Federal" "ES" 27 27
+"22" "Universidade Federal de GoiÃ¡s" "Federal" "GO" 20 20
+"23" "Universidade Federal do ParÃ¡" "Federal" "PA" 29 29
+"24" "Universidade Federal do Rio Grande do Norte" "Federal" "RN" 22 22
+"25" "Universidade Federal de Santa Maria" "Federal" "RS" 21 21
 "26" "Universidade Federal de Juiz de Fora" "Federal" "MG" 26 26
-"27" "Universidade Estadual de Londrina" "Estadual" "PR" 27 23
+"27" "Universidade Estadual de Londrina" "Estadual" "PR" 23 23
 "28" "Universidade Federal de Lavras" "Federal" "MG" 28 28
-"29" "Universidade Federal de UberlÃ¢ndia" "Federal" "MG" 29 25
-"30" "Universidade Estadual de MaringÃ¡" "Estadual" "PR" 30 24
-"31" "Universidade Federal de Pelotas" "Federal" "RS" 31 32
-"32" "Universidade Presbiteriana Mackenzie" "Privada" "SP" 32 34
-"33" "Universidade Federal de Ouro Preto" "Federal" "MG" 33 39
-"34" "FundaÃ§Ã£o Universidade Federal do Abc" "Federal" "SP" 34 38
-"35" "Universidade de Caxias do Sul" "Privada" "RS" 35 42
-"36" "Universidade Federal da ParaÃ­ba" "Federal" "PB" 36 31
+"29" "Universidade Federal de UberlÃ¢ndia" "Federal" "MG" 25 25
+"30" "Universidade Estadual de MaringÃ¡" "Estadual" "PR" 24 24
+"31" "Universidade Federal de Pelotas" "Federal" "RS" 32 32
+"32" "Universidade Presbiteriana Mackenzie" "Privada" "SP" 34 34
+"33" "Universidade Federal de Ouro Preto" "Federal" "MG" 39 39
+"34" "FundaÃ§Ã£o Universidade Federal do Abc" "Federal" "SP" 38 38
+"35" "Universidade de Caxias do Sul" "Privada" "RS" 42 42
+"36" "Universidade Federal da ParaÃ­ba" "Federal" "PB" 31 31
 "37" "Universidade Federal de Sergipe" "Federal" "SE" 37 37
-"38" "Universidade Federal de ItajubÃ¡" "Federal" "MG" 38 53
-"39" "Universidade Federal de SÃ£o JoÃ£o Del Rei" "Federal" "MG" 39 50
-"40" "Universidade Estadual do Norte Fluminense Darcy Ribeiro" "Estadual" "RJ" 40 43
-"41" "Universidade do Vale do Rio dos Sinos" "Privada" "RS" 41 36
-"42" "Universidade Federal Rural do Rio de Janeiro" "Federal" "RJ" 42 35
-"43" "Universidade CatÃ³lica de BrasÃ­lia" "Privada" "DF" 43 57
-"44" "Universidade Federal de Mato Grosso" "Federal" "MT" 44 33
+"38" "Universidade Federal de ItajubÃ¡" "Federal" "MG" 53 53
+"39" "Universidade Federal de SÃ£o JoÃ£o Del Rei" "Federal" "MG" 50 50
+"40" "Universidade Estadual do Norte Fluminense Darcy Ribeiro" "Estadual" "RJ" 43 43
+"41" "Universidade do Vale do Rio dos Sinos" "Privada" "RS" 36 36
+"42" "Universidade Federal Rural do Rio de Janeiro" "Federal" "RJ" 35 35
+"43" "Universidade CatÃ³lica de BrasÃ­lia" "Privada" "DF" 57 57
+"44" "Universidade Federal de Mato Grosso" "Federal" "MT" 33 33
 "45" "Universidade Federal de Alagoas" "Federal" "AL" 45 45
-"46" "Universidade Federal de Mato Grosso do Sul" "Federal" "MS" 46 41
-"47" "PontifÃ­cia Universidade CatÃ³lica de Minas Gerais" "Privada" "MG" 47 49
-"48" "Universidade TecnolÃ³gica Federal do ParanÃ¡" "Federal" "PR" 48 47
-"49" "Universidade Estadual de Ponta Grossa" "Estadual" "PR" 49 48
-"50" "FundaÃ§Ã£o Universidade do Estado de Santa Catarina" "Estadual" "SC" 50 40
-"51" "Universidade Estadual de Santa Cruz" "Estadual" "BA" 51 59
-"52" "Universidade Estadual do CearÃ¡" "Estadual" "CE" 52 55
-"53" "Universidade Federal do Amazonas" "Federal" "AM" 53 60
-"54" "Universidade Federal do MaranhÃ£o" "Federal" "MA" 54 51
-"55" "Universidade Federal de Campina Grande" "Federal" "PB" 55 44
-"56" "Universidade Estadual de Feira de Santana" "Estadual" "BA" 56 58
-"57" "Universidade Federal do Rio Grande" "Federal" "RS" 57 54
-"58" "Universidade Estadual do Oeste do ParanÃ¡" "Estadual" "PR" 58 62
-"59" "Universidade de Pernambuco" "Estadual" "PE" 59 71
-"60" "Universidade Federal Rural de Pernambuco" "Federal" "PE" 60 64
-"61" "Universidade Federal do TriÃ¢ngulo Mineiro" "Federal" "MG" 61 46
-"62" "Universidade de Fortaleza" "Privada" "CE" 62 63
-"63" "Universidade Federal do PiauÃ­" "Federal" "PI" 63 52
-"64" "Universidade Federal do Estado do Rio de Janeiro" "Federal" "RJ" 64 65
-"65" "Universidade de Passo Fundo" "Privada" "RS" 65 70
-"66" "Universidade de Sorocaba" "Privada" "SP" 66 94
-"67" "FundaÃ§Ã£o Universidade Federal de CiÃªncias da SaÃºde de Porto Alegre" "Federal" "RS" 67 61
-"68" "PontifÃ­cia Universidade CatÃ³lica de Campinas" "Privada" "SP" 68 66
-"69" "Universidade Tiradentes" "Privada" "SE" 69 80
-"70" "Universidade Regional de Blumenau" "Municipal" "SC" 70 75
-"71" "Universidade Federal de Alfenas" "Federal" "MG" 71 68
-"72" "Universidade do Sul de Santa Catarina" "Privada" "SC" 72 93
-"73" "Universidade Santa CecÃ­lia" "Privada" "SP" 73 101
-"74" "Universidade Positivo" "Privada" "PR" 74 78
-"75" "Universidade do Vale do ParaÃ­ba" "Privada" "SP" 75 96
-"76" "Universidade Nove de Julho" "Privada" "SP" 76 67
-"77" "Universidade do Estado do Amazonas" "Estadual" "AM" 77 104
-"78" "Universidade de Franca" "Privada" "SP" 78 72
-"79" "Universidade Feevale" "Privada" "RS" 79 69
-"80" "Universidade do Vale do ItajaÃ­" "Privada" "SC" 80 74
-"81" "Universidade Estadual do Centro Oeste" "Estadual" "PR" 81 100
-"82" "Universidade CatÃ³lica de Pelotas" "Privada" "RS" 82 73
-"83" "Universidade Metodista de Piracicaba" "Privada" "SP" 83 82
-"84" "Universidade CatÃ³lica Dom Bosco" "Privada" "MS" 84 87
-"85" "PontifÃ­cia Universidade CatÃ³lica de SÃ£o Paulo" "Privada" "SP" 85 56
-"86" "Universidade La Salle" "Privada" "RS" 86 122
-"87" "Universidade do Extremo Sul Catarinense" "Privada" "SC" 87 110
-"88" "FundaÃ§Ã£o Universidade Federal do Pampa - Unipampa" "Federal" "RS" 88 83
-"89" "Universidade da RegiÃ£o de Joinville" "Privada" "SC" 89 90
-"90" "Universidade Luterana do Brasil" "Privada" "RS" 90 81
-"91" "Universidade Cruzeiro do Sul" "Privada" "SP" 91 85
-"92" "FundaÃ§Ã£o Universidade Federal do Vale do SÃ£o Francisco" "Federal" "PE" 92 106
-"93" "FundaÃ§Ã£o Universidade Federal da Grande Dourados" "Federal" "MS" 93 76
-"94" "Universidade Paulista" "Privada" "SP" 94 77
-"95" "Universidade Cidade de SÃ£o Paulo" "Privada" "SP" 95 98
-"96" "Universidade do Grande Rio Professor JosÃ© de Souza Herdy" "Privada" "RJ" 96 111
-"97" "Universidade EstÃ¡cio de SÃ¡" "Privada" "RJ" 97 88
-"98" "FundaÃ§Ã£o Universidade Federal do Tocantins" "Federal" "TO" 98 114
-"99" "Universidade Federal dos Vales do Jequitinhonha e Mucuri" "Federal" "MG" 99 103
-"100" "Universidade SÃ£o Francisco" "Privada" "SP" 100 97
-"101" "Universidade de RibeirÃ£o Preto" "Privada" "SP" 101 79
-"102" "Universidade Fumec" "Privada" "MG" 102 118
-"103" "Universidade de Mogi das Cruzes" "Privada" "SP" 103 136
-"104" "Universidade do Vale do Taquari" "Privada" "RS" 104 121
-"105" "Universidade Vila Velha" "Privada" "ES" 105 112
-"106" "Universidade Universus Veritas Guarulhos" "Privada" "SP" 106 127
-"107" "Universidade Estadual da ParaÃ­ba" "Estadual" "PB" 107 92
-"108" "Universidade Estadual do Sudoeste da Bahia" "Estadual" "BA" 108 84
-"109" "Universidade Estadual de Montes Claros" "Estadual" "MG" 109 95
-"110" "Universidade Federal do RecÃ´ncavo da Bahia" "Federal" "BA" 110 125
-"111" "Universidade Estadual de GoiÃ¡s" "Estadual" "GO" 111 108
-"112" "Universidade Salvador" "Privada" "BA" 112 120
-"113" "Universidade do Estado da Bahia" "Estadual" "BA" 113 89
-"114" "Universidade Estadual de Mato Grosso do Sul" "Estadual" "MS" 114 117
-"115" "PontifÃ­cia Universidade CatÃ³lica de GoiÃ¡s" "Privada" "GO" 115 107
-"116" "Universidade Federal Rural da AmazÃ´nia" "Federal" "PA" 116 126
-"117" "Universidade da AmazÃ´nia" "Privada" "PA" 117 140
-"118" "Universidade do Estado de Mato Grosso" "Estadual" "MT" 118 119
-"119" "Universidade JosÃ© do RosÃ¡rio Vellano" "Privada" "MG" 119 105
-"120" "Universidade do Estado do ParÃ¡" "Estadual" "PA" 120 115
-"121" "Universidade Federal do Oeste do ParÃ¡" "Federal" "PA" 121 132
-"122" "Universidade CatÃ³lica de Pernambuco" "Privada" "PE" 122 86
-"123" "Universidade Veiga de Almeida" "Privada" "RJ" 123 116
-"124" "Universidade Federal Rural do Semi-Ãrido" "Federal" "RN" 124 91
-"125" "Universidade Federal da IntegraÃ§Ã£o Latino-Americana" "Federal" "PR" 125 146
-"126" "Universidade do Estado de Minas Gerais" "Estadual" "MG" 126 139
-"127" "Universidade Federal do Acre" "Federal" "AC" 127 137
-"128" "Universidade Regional do Noroeste do Estado do Rio Grande do Sul" "Privada" "RS" 128 131
-"129" "Universidade PitÃ¡goras Unopar" "Privada" "PR" 129 99
-"130" "Universidade de TaubatÃ©" "Municipal" "SP" 130 142
-"131" "Universidade Federal da Fronteira Sul" "Federal" "SC" 131 113
-"132" "Universidade Paranaense" "Privada" "PR" 132 124
+"46" "Universidade Federal de Mato Grosso do Sul" "Federal" "MS" 41 41
+"47" "PontifÃ­cia Universidade CatÃ³lica de Minas Gerais" "Privada" "MG" 49 49
+"48" "Universidade TecnolÃ³gica Federal do ParanÃ¡" "Federal" "PR" 47 47
+"49" "Universidade Estadual de Ponta Grossa" "Estadual" "PR" 48 48
+"50" "FundaÃ§Ã£o Universidade do Estado de Santa Catarina" "Estadual" "SC" 40 40
+"51" "Universidade Estadual de Santa Cruz" "Estadual" "BA" 59 59
+"52" "Universidade Estadual do CearÃ¡" "Estadual" "CE" 55 55
+"53" "Universidade Federal do Amazonas" "Federal" "AM" 60 60
+"54" "Universidade Federal do MaranhÃ£o" "Federal" "MA" 51 51
+"55" "Universidade Federal de Campina Grande" "Federal" "PB" 44 44
+"56" "Universidade Estadual de Feira de Santana" "Estadual" "BA" 58 58
+"57" "Universidade Federal do Rio Grande" "Federal" "RS" 54 54
+"58" "Universidade Estadual do Oeste do ParanÃ¡" "Estadual" "PR" 62 62
+"59" "Universidade de Pernambuco" "Estadual" "PE" 71 71
+"60" "Universidade Federal Rural de Pernambuco" "Federal" "PE" 64 64
+"61" "Universidade Federal do TriÃ¢ngulo Mineiro" "Federal" "MG" 46 46
+"62" "Universidade de Fortaleza" "Privada" "CE" 63 63
+"63" "Universidade Federal do PiauÃ­" "Federal" "PI" 52 52
+"64" "Universidade Federal do Estado do Rio de Janeiro" "Federal" "RJ" 65 65
+"65" "Universidade de Passo Fundo" "Privada" "RS" 70 70
+"66" "Universidade de Sorocaba" "Privada" "SP" 94 94
+"67" "FundaÃ§Ã£o Universidade Federal de CiÃªncias da SaÃºde de Porto Alegre" "Federal" "RS" 61 61
+"68" "PontifÃ­cia Universidade CatÃ³lica de Campinas" "Privada" "SP" 66 66
+"69" "Universidade Tiradentes" "Privada" "SE" 80 80
+"70" "Universidade Regional de Blumenau" "Municipal" "SC" 75 75
+"71" "Universidade Federal de Alfenas" "Federal" "MG" 68 68
+"72" "Universidade do Sul de Santa Catarina" "Privada" "SC" 93 93
+"73" "Universidade Santa CecÃ­lia" "Privada" "SP" 101 101
+"74" "Universidade Positivo" "Privada" "PR" 78 78
+"75" "Universidade do Vale do ParaÃ­ba" "Privada" "SP" 96 96
+"76" "Universidade Nove de Julho" "Privada" "SP" 67 67
+"77" "Universidade do Estado do Amazonas" "Estadual" "AM" 104 104
+"78" "Universidade de Franca" "Privada" "SP" 72 72
+"79" "Universidade Feevale" "Privada" "RS" 69 69
+"80" "Universidade do Vale do ItajaÃ­" "Privada" "SC" 74 74
+"81" "Universidade Estadual do Centro Oeste" "Estadual" "PR" 100 100
+"82" "Universidade CatÃ³lica de Pelotas" "Privada" "RS" 73 73
+"83" "Universidade Metodista de Piracicaba" "Privada" "SP" 82 82
+"84" "Universidade CatÃ³lica Dom Bosco" "Privada" "MS" 87 87
+"85" "PontifÃ­cia Universidade CatÃ³lica de SÃ£o Paulo" "Privada" "SP" 56 56
+"86" "Universidade La Salle" "Privada" "RS" 122 122
+"87" "Universidade do Extremo Sul Catarinense" "Privada" "SC" 110 110
+"88" "FundaÃ§Ã£o Universidade Federal do Pampa - Unipampa" "Federal" "RS" 83 83
+"89" "Universidade da RegiÃ£o de Joinville" "Privada" "SC" 90 90
+"90" "Universidade Luterana do Brasil" "Privada" "RS" 81 81
+"91" "Universidade Cruzeiro do Sul" "Privada" "SP" 85 85
+"92" "FundaÃ§Ã£o Universidade Federal do Vale do SÃ£o Francisco" "Federal" "PE" 106 106
+"93" "FundaÃ§Ã£o Universidade Federal da Grande Dourados" "Federal" "MS" 76 76
+"94" "Universidade Paulista" "Privada" "SP" 77 77
+"95" "Universidade Cidade de SÃ£o Paulo" "Privada" "SP" 98 98
+"96" "Universidade do Grande Rio Professor JosÃ© de Souza Herdy" "Privada" "RJ" 111 111
+"97" "Universidade EstÃ¡cio de SÃ¡" "Privada" "RJ" 88 88
+"98" "FundaÃ§Ã£o Universidade Federal do Tocantins" "Federal" "TO" 114 114
+"99" "Universidade Federal dos Vales do Jequitinhonha e Mucuri" "Federal" "MG" 103 103
+"100" "Universidade SÃ£o Francisco" "Privada" "SP" 97 97
+"101" "Universidade de RibeirÃ£o Preto" "Privada" "SP" 79 79
+"102" "Universidade Fumec" "Privada" "MG" 118 118
+"103" "Universidade de Mogi das Cruzes" "Privada" "SP" 136 136
+"104" "Universidade do Vale do Taquari" "Privada" "RS" 121 121
+"105" "Universidade Vila Velha" "Privada" "ES" 112 112
+"106" "Universidade Universus Veritas Guarulhos" "Privada" "SP" 127 127
+"107" "Universidade Estadual da ParaÃ­ba" "Estadual" "PB" 92 92
+"108" "Universidade Estadual do Sudoeste da Bahia" "Estadual" "BA" 84 84
+"109" "Universidade Estadual de Montes Claros" "Estadual" "MG" 95 95
+"110" "Universidade Federal do RecÃ´ncavo da Bahia" "Federal" "BA" 125 125
+"111" "Universidade Estadual de GoiÃ¡s" "Estadual" "GO" 108 108
+"112" "Universidade Salvador" "Privada" "BA" 120 120
+"113" "Universidade do Estado da Bahia" "Estadual" "BA" 89 89
+"114" "Universidade Estadual de Mato Grosso do Sul" "Estadual" "MS" 117 117
+"115" "PontifÃ­cia Universidade CatÃ³lica de GoiÃ¡s" "Privada" "GO" 107 107
+"116" "Universidade Federal Rural da AmazÃ´nia" "Federal" "PA" 126 126
+"117" "Universidade da AmazÃ´nia" "Privada" "PA" 140 140
+"118" "Universidade do Estado de Mato Grosso" "Estadual" "MT" 119 119
+"119" "Universidade JosÃ© do RosÃ¡rio Vellano" "Privada" "MG" 105 105
+"120" "Universidade do Estado do ParÃ¡" "Estadual" "PA" 115 115
+"121" "Universidade Federal do Oeste do ParÃ¡" "Federal" "PA" 132 132
+"122" "Universidade CatÃ³lica de Pernambuco" "Privada" "PE" 86 86
+"123" "Universidade Veiga de Almeida" "Privada" "RJ" 116 116
+"124" "Universidade Federal Rural do Semi-Ãrido" "Federal" "RN" 91 91
+"125" "Universidade Federal da IntegraÃ§Ã£o Latino-Americana" "Federal" "PR" 146 146
+"126" "Universidade do Estado de Minas Gerais" "Estadual" "MG" 139 139
+"127" "Universidade Federal do Acre" "Federal" "AC" 137 137
+"128" "Universidade Regional do Noroeste do Estado do Rio Grande do Sul" "Privada" "RS" 131 131
+"129" "Universidade PitÃ¡goras Unopar" "Privada" "PR" 99 99
+"130" "Universidade de TaubatÃ©" "Municipal" "SP" 142 142
+"131" "Universidade Federal da Fronteira Sul" "Federal" "SC" 113 113
+"132" "Universidade Paranaense" "Privada" "PR" 124 124
 "133" "Universidade Tuiuti do ParanÃ¡" "Privada" "PR" 133 133
-"134" "FundaÃ§Ã£o Universidade Federal de RondÃ´nia" "Federal" "RO" 134 123
-"135" "Universidade do Ceuma" "Privada" "MA" 135 147
-"136" "Universidade do Oeste Paulista" "Privada" "SP" 136 102
-"137" "Universidade SÃ£o Judas Tadeu" "Privada" "SP" 137 109
+"134" "FundaÃ§Ã£o Universidade Federal de RondÃ´nia" "Federal" "RO" 123 123
+"135" "Universidade do Ceuma" "Privada" "MA" 147 147
+"136" "Universidade do Oeste Paulista" "Privada" "SP" 102 102
+"137" "Universidade SÃ£o Judas Tadeu" "Privada" "SP" 109 109
 "138" "Universidade Santo Amaro" "Privada" "SP" 138 138
-"139" "Universidade de Santa Cruz do Sul" "Privada" "RS" 139 134
-"140" "Universidade Estadual do PiauÃ­" "Estadual" "PI" 140 128
+"139" "Universidade de Santa Cruz do Sul" "Privada" "RS" 134 134
+"140" "Universidade Estadual do PiauÃ­" "Estadual" "PI" 128 128
 "141" "Universidade do Estado do Rio Grande do Norte" "Estadual" "RN" 141 141
-"142" "Universidade Potiguar" "Privada" "RN" 142 135
-"143" "Universidade Salgado de Oliveira" "Privada" "RJ" 143 144
-"144" "Universidade de Uberaba" "Privada" "MG" 144 129
-"145" "Universidade Anhanguera de SÃ£o Paulo" "Privada" "SP" 145 159
-"146" "Universidade Nilton Lins" "Privada" "AM" 146 161
-"147" "Universidade Estadual do Vale do AcaraÃº" "Estadual" "CE" 147 130
-"148" "Universidade Estadual do Rio Grande do Sul" "Estadual" "RS" 148 155
-"149" "Universidade Metropolitana de Santos" "Privada" "SP" 149 162
-"150" "Universidade Regional Integrada do Alto Uruguai e das MissÃµes" "Privada" "RS" 150 145
-"151" "Universidade Federal do AmapÃ¡" "Federal" "AP" 151 149
-"152" "Universidade do Oeste de Santa Catarina" "Privada" "SC" 152 148
-"153" "Universidade CatÃ³lica de PetrÃ³polis" "Privada" "RJ" 153 154
-"154" "Universidade Castelo Branco" "Privada" "RJ" 154 156
-"155" "Universidade Brasil" "Privada" "SP" 155 151
-"156" "Universidade Estadual do MaranhÃ£o" "Estadual" "MA" 156 150
-"157" "Universidade do Vale do SapucaÃ­" "Privada" "MG" 157 163
-"158" "Universidade Regional do Cariri" "Estadual" "CE" 158 143
-"159" "Universidade ComunitÃ¡ria da RegiÃ£o de ChapecÃ³" "Privada" "SC" 159 158
-"160" "Universidade Presidente AntÃ´nio Carlos" "Privada" "MG" 160 167
-"161" "Universidade de ItaÃºna" "Privada" "MG" 161 153
-"162" "Universidade Anhanguera" "Privada" "MS" 162 152
-"163" "Universidade de Araraquara" "Privada" "SP" 163 157
+"142" "Universidade Potiguar" "Privada" "RN" 135 135
+"143" "Universidade Salgado de Oliveira" "Privada" "RJ" 144 144
+"144" "Universidade de Uberaba" "Privada" "MG" 129 129
+"145" "Universidade Anhanguera de SÃ£o Paulo" "Privada" "SP" 159 159
+"146" "Universidade Nilton Lins" "Privada" "AM" 161 161
+"147" "Universidade Estadual do Vale do AcaraÃº" "Estadual" "CE" 130 130
+"148" "Universidade Estadual do Rio Grande do Sul" "Estadual" "RS" 155 155
+"149" "Universidade Metropolitana de Santos" "Privada" "SP" 162 162
+"150" "Universidade Regional Integrada do Alto Uruguai e das MissÃµes" "Privada" "RS" 145 145
+"151" "Universidade Federal do AmapÃ¡" "Federal" "AP" 149 149
+"152" "Universidade do Oeste de Santa Catarina" "Privada" "SC" 148 148
+"153" "Universidade CatÃ³lica de PetrÃ³polis" "Privada" "RJ" 154 154
+"154" "Universidade Castelo Branco" "Privada" "RJ" 156 156
+"155" "Universidade Brasil" "Privada" "SP" 151 151
+"156" "Universidade Estadual do MaranhÃ£o" "Estadual" "MA" 150 150
+"157" "Universidade do Vale do SapucaÃ­" "Privada" "MG" 163 163
+"158" "Universidade Regional do Cariri" "Estadual" "CE" 143 143
+"159" "Universidade ComunitÃ¡ria da RegiÃ£o de ChapecÃ³" "Privada" "SC" 158 158
+"160" "Universidade Presidente AntÃ´nio Carlos" "Privada" "MG" 167 167
+"161" "Universidade de ItaÃºna" "Privada" "MG" 153 153
+"162" "Universidade Anhanguera" "Privada" "MS" 152 152
+"163" "Universidade de Araraquara" "Privada" "SP" 157 157
 "164" "Universidade CÃ¢ndido Mendes" "Privada" "RJ" 164 164
-"165" "Universidade Vassouras" "Privada" "RJ" 165 160
+"165" "Universidade Vassouras" "Privada" "RJ" 160 160
 "166" "Universidade do Contestado" "Privada" "SC" 166 166
-"167" "Universidade Federal do Sul e Sudeste do ParÃ¡" "Federal" "PA" 167 168
-"168" "Universidade de Rio Verde" "Municipal" "GO" 168 170
+"167" "Universidade Federal do Sul e Sudeste do ParÃ¡" "Federal" "PA" 168 168
+"168" "Universidade de Rio Verde" "Municipal" "GO" 170 170
 "169" "Universidade Estadual de Roraima" "Estadual" "RR" 169 169
-"170" "Universidade de Cruz Alta" "Privada" "RS" 170 165
+"170" "Universidade de Cruz Alta" "Privada" "RS" 165 165
 "171" "Universidade do Estado do AmapÃ¡" "Estadual" "AP" 171 171
